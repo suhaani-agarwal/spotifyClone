@@ -1,0 +1,18 @@
+.font{
+    font-weight: 500;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.invert{
+    filter: invert();
+}
+.dimtext{
+    color: rgba(255, 255, 255, 0.547);
+    margin: 5px;
+}
+.title{
+    margin-right: 40px;
+    margin-left: 5px;
+}
